@@ -1,0 +1,2 @@
+// Local credentials are intentionally excluded from version control.
+#include? "Local.xcconfig"

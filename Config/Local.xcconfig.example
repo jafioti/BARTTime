@@ -1,0 +1,2 @@
+// Copy to Local.xcconfig and set a key obtained from BART.
+BART_API_KEY =

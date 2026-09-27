@@ -1,0 +1,19 @@
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+dist/
+
+# Local credentials, signing assets, and build exports
+Config/Local.xcconfig
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.mobileprovision
+*.ipa
+*.xcarchive/

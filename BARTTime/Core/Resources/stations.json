@@ -1,0 +1,302 @@
+[
+  {
+    "name": "12th St. Oakland City Center",
+    "abbr": "12TH",
+    "city": "Oakland",
+    "address": "1245 Broadway"
+  },
+  {
+    "name": "16th St. Mission",
+    "abbr": "16TH",
+    "city": "San Francisco",
+    "address": "2000 Mission Street"
+  },
+  {
+    "name": "19th St. Oakland",
+    "abbr": "19TH",
+    "city": "Oakland",
+    "address": "1900 Broadway"
+  },
+  {
+    "name": "24th St. Mission",
+    "abbr": "24TH",
+    "city": "San Francisco",
+    "address": "2800 Mission Street"
+  },
+  {
+    "name": "Antioch",
+    "abbr": "ANTC",
+    "city": "Antioch",
+    "address": "1600 Slatten Ranch Road"
+  },
+  {
+    "name": "Ashby",
+    "abbr": "ASHB",
+    "city": "Berkeley",
+    "address": "3100 Adeline Street"
+  },
+  {
+    "name": "Balboa Park",
+    "abbr": "BALB",
+    "city": "San Francisco",
+    "address": "401 Geneva Avenue"
+  },
+  {
+    "name": "Bay Fair",
+    "abbr": "BAYF",
+    "city": "San Leandro",
+    "address": "15242 Hesperian Blvd."
+  },
+  {
+    "name": "Berryessa/North San Jose",
+    "abbr": "BERY",
+    "city": "San Jose",
+    "address": "1620 Berryessa Road"
+  },
+  {
+    "name": "Castro Valley",
+    "abbr": "CAST",
+    "city": "Castro Valley",
+    "address": "3301 Norbridge Dr."
+  },
+  {
+    "name": "Civic Center/UN Plaza",
+    "abbr": "CIVC",
+    "city": "San Francisco",
+    "address": "1150 Market Street"
+  },
+  {
+    "name": "Coliseum",
+    "abbr": "COLS",
+    "city": "Oakland",
+    "address": "7200 San Leandro St."
+  },
+  {
+    "name": "Colma",
+    "abbr": "COLM",
+    "city": "Colma",
+    "address": "365 D Street"
+  },
+  {
+    "name": "Concord",
+    "abbr": "CONC",
+    "city": "Concord",
+    "address": "1451 Oakland Avenue"
+  },
+  {
+    "name": "Daly City",
+    "abbr": "DALY",
+    "city": "Daly City",
+    "address": "500 John Daly Blvd."
+  },
+  {
+    "name": "Downtown Berkeley",
+    "abbr": "DBRK",
+    "city": "Berkeley",
+    "address": "2160 Shattuck Avenue"
+  },
+  {
+    "name": "Dublin/Pleasanton",
+    "abbr": "DUBL",
+    "city": "Pleasanton",
+    "address": "5801 Owens Dr."
+  },
+  {
+    "name": "El Cerrito del Norte",
+    "abbr": "DELN",
+    "city": "El Cerrito",
+    "address": "6400 Cutting Blvd."
+  },
+  {
+    "name": "El Cerrito Plaza",
+    "abbr": "PLZA",
+    "city": "El Cerrito",
+    "address": "6699 Fairmount Avenue"
+  },
+  {
+    "name": "Embarcadero",
+    "abbr": "EMBR",
+    "city": "San Francisco",
+    "address": "298 Market Street"
+  },
+  {
+    "name": "Fremont",
+    "abbr": "FRMT",
+    "city": "Fremont",
+    "address": "2000 BART Way"
+  },
+  {
+    "name": "Fruitvale",
+    "abbr": "FTVL",
+    "city": "Oakland",
+    "address": "3401 East 12th Street"
+  },
+  {
+    "name": "Glen Park",
+    "abbr": "GLEN",
+    "city": "San Francisco",
+    "address": "2901 Diamond Street"
+  },
+  {
+    "name": "Hayward",
+    "abbr": "HAYW",
+    "city": "Hayward",
+    "address": "699 'B' Street"
+  },
+  {
+    "name": "Lafayette",
+    "abbr": "LAFY",
+    "city": "Lafayette",
+    "address": "3601 Deer Hill Road"
+  },
+  {
+    "name": "Lake Merritt",
+    "abbr": "LAKE",
+    "city": "Oakland",
+    "address": "800 Madison Street"
+  },
+  {
+    "name": "MacArthur",
+    "abbr": "MCAR",
+    "city": "Oakland",
+    "address": "555 40th Street"
+  },
+  {
+    "name": "Millbrae",
+    "abbr": "MLBR",
+    "city": "Millbrae",
+    "address": "200 North Rollins Road"
+  },
+  {
+    "name": "Milpitas",
+    "abbr": "MLPT",
+    "city": "Milpitas",
+    "address": "1755 S. Milpitas Blvd."
+  },
+  {
+    "name": "Montgomery St.",
+    "abbr": "MONT",
+    "city": "San Francisco",
+    "address": "598 Market Street"
+  },
+  {
+    "name": "North Berkeley",
+    "abbr": "NBRK",
+    "city": "Berkeley",
+    "address": "1750 Sacramento Street"
+  },
+  {
+    "name": "North Concord/Martinez",
+    "abbr": "NCON",
+    "city": "Concord",
+    "address": "3700 Port Chicago Highway"
+  },
+  {
+    "name": "Oakland International Airport",
+    "abbr": "OAKL",
+    "city": "Oakland",
+    "address": "4 Airport Drive"
+  },
+  {
+    "name": "Orinda",
+    "abbr": "ORIN",
+    "city": "Orinda",
+    "address": "11 Camino Pablo"
+  },
+  {
+    "name": "Pittsburg/Bay Point",
+    "abbr": "PITT",
+    "city": "Pittsburg",
+    "address": "1700 West Leland Road"
+  },
+  {
+    "name": "Pittsburg Center",
+    "abbr": "PCTR",
+    "city": "Pittsburg",
+    "address": "2099 Railroad Avenue"
+  },
+  {
+    "name": "Pleasant Hill/Contra Costa Centre",
+    "abbr": "PHIL",
+    "city": "Walnut Creek",
+    "address": "1365 Treat Blvd."
+  },
+  {
+    "name": "Powell St.",
+    "abbr": "POWL",
+    "city": "San Francisco",
+    "address": "899 Market Street"
+  },
+  {
+    "name": "Richmond",
+    "abbr": "RICH",
+    "city": "Richmond",
+    "address": "1700 Nevin Avenue"
+  },
+  {
+    "name": "Rockridge",
+    "abbr": "ROCK",
+    "city": "Oakland",
+    "address": "5660 College Avenue"
+  },
+  {
+    "name": "San Bruno",
+    "abbr": "SBRN",
+    "city": "San Bruno",
+    "address": "1151 Huntington Avenue"
+  },
+  {
+    "name": "San Francisco International Airport",
+    "abbr": "SFIA",
+    "city": "San Francisco Int'l Airport",
+    "address": "International Terminal, Level 3"
+  },
+  {
+    "name": "San Leandro",
+    "abbr": "SANL",
+    "city": "San Leandro",
+    "address": "1401 San Leandro Blvd."
+  },
+  {
+    "name": "South Hayward",
+    "abbr": "SHAY",
+    "city": "Hayward",
+    "address": "28601 Dixon Street"
+  },
+  {
+    "name": "South San Francisco",
+    "abbr": "SSAN",
+    "city": "South San Francisco",
+    "address": "1333 Mission Road"
+  },
+  {
+    "name": "Union City",
+    "abbr": "UCTY",
+    "city": "Union City",
+    "address": "10 Union Square"
+  },
+  {
+    "name": "Walnut Creek",
+    "abbr": "WCRK",
+    "city": "Walnut Creek",
+    "address": "200 Ygnacio Valley Road"
+  },
+  {
+    "name": "Warm Springs/South Fremont",
+    "abbr": "WARM",
+    "city": "Fremont",
+    "address": "45193 Warm Springs Blvd"
+  },
+  {
+    "name": "West Dublin/Pleasanton",
+    "abbr": "WDUB",
+    "city": "Dublin",
+    "address": "6501 Golden Gate Drive"
+  },
+  {
+    "name": "West Oakland",
+    "abbr": "WOAK",
+    "city": "Oakland",
+    "address": "1451 7th Street"
+  }
+]

@@ -1,0 +1,14 @@
+name: iOS build and core tests
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test BART parsing and app state
+        run: swift test
+      - name: Build the iOS app without signing
+        run: >-
+          xcodebuild -project BARTTime.xcodeproj -scheme BARTTime
+          -sdk iphonesimulator -destination 'generic/platform=iOS Simulator'
+          -derivedDataPath DerivedData CODE_SIGNING_ALLOWED=NO build
